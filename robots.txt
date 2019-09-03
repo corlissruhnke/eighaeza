@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://quaitheip.steamcountdown.com/sitemap.xml
